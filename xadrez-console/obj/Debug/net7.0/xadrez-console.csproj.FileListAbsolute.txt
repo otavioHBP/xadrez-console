@@ -1,0 +1,15 @@
+C:\C#\Projetos\xadrez-console\xadrez-console\bin\Debug\net7.0\xadrez-console.exe
+C:\C#\Projetos\xadrez-console\xadrez-console\bin\Debug\net7.0\xadrez-console.deps.json
+C:\C#\Projetos\xadrez-console\xadrez-console\bin\Debug\net7.0\xadrez-console.runtimeconfig.json
+C:\C#\Projetos\xadrez-console\xadrez-console\bin\Debug\net7.0\xadrez-console.dll
+C:\C#\Projetos\xadrez-console\xadrez-console\bin\Debug\net7.0\xadrez-console.pdb
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.csproj.AssemblyReference.cache
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.AssemblyInfoInputs.cache
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.AssemblyInfo.cs
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.dll
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\refint\xadrez-console.dll
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.pdb
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\xadrez-console.genruntimeconfig.cache
+C:\C#\Projetos\xadrez-console\xadrez-console\obj\Debug\net7.0\ref\xadrez-console.dll
